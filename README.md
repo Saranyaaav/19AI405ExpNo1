@@ -41,7 +41,7 @@
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
-# Program:
+### Program:
 ```
 import random
 class MedicinePrescribingAgent:
@@ -85,8 +85,8 @@ agent = MedicinePrescribingAgent()
 agent.run()
 ```
 
-# Output:
+## Output:
 <img width="1697" height="357" alt="image" src="https://github.com/user-attachments/assets/aa20d2e4-f53a-4da7-ba27-73190dee8208" />
 
-# Result: 
+## Result: 
 Thus found the PEAS description for the given AI problem and develop an AI agent.
